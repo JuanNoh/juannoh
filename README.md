@@ -15,3 +15,4 @@
 - ⚙️ TypeScript, Vue JS, Angular JS
 - 👨‍💻 Node JS
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanNoh&repo=webpack-react)](https://github.com/anuraghazra/github-readme-stats)
