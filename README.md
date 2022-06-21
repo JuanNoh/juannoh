@@ -17,6 +17,6 @@
 
 ## Proyectos git
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanNoh&repo=webpack-react&theme=react)](https://github.com/JuanNoh/webpack-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanNoh&repo=react-custom-select&theme=react)](hhttps://github.com/JuanNoh/react-custom-select)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanNoh&repo=react-custom-select&theme=react)](https://github.com/JuanNoh/react-custom-select)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanNoh&repo=pokedex-react&theme=react)](https://github.com/JuanNoh/pokedex-react)
 
