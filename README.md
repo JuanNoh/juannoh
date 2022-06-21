@@ -8,7 +8,7 @@
 
 - ⚙️ React JS, Next JS, Javascript
 - 👨‍💻 PHP, Laravel, CodeIgniter
-- 👁️ SASS, CSS, Stylus, AntDesing
+- 👁️ SASS, CSS, Stylus, AntDesing, Material UI
 - 💽 MySQL, PostgreSQL
 
 ## Conocimiento
