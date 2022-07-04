@@ -3,7 +3,7 @@
 </h2>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=416&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 
  Hola soy un apasionado en desarrollo Web, me encanta conocer y aprender nuevas tecnologías, tengo conocimientos en la parte de frontend y backend
