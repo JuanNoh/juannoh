@@ -2,9 +2,11 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+<p align="center">
 
+Fuente: https://www.iteramos.com/pregunta/34047/github-readmemd-imagen-central
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer)](https://git.io/typing-svg)
-
+</p>
 
  Hola soy un apasionado en desarrollo Web, me encanta conocer y aprender nuevas tecnologías, tengo conocimientos en la parte de frontend y backend
 
