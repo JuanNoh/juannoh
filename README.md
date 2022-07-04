@@ -3,8 +3,6 @@
 </h2>
 
 <p align="center">
-
-Fuente: https://www.iteramos.com/pregunta/34047/github-readmemd-imagen-central
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 </p>
 
