@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=459&lines=Frontend+Developer">
 </p>
 
  Hola soy un apasionado en desarrollo Web, me encanta conocer y aprender nuevas tecnologías, tengo conocimientos en la parte de frontend y backend
