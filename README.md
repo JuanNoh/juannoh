@@ -10,14 +10,14 @@
 
 ## Experiencia
 
-- ⚙️ React JS, Next JS, Javascript
+- ⚙️ React JS, Next JS, Javascript, Typescript
 - 👨‍💻 PHP, Laravel, CodeIgniter
 - 👁️ SASS, CSS, Stylus, AntDesing, Material UI
 - 💽 MySQL, PostgreSQL
 
 ## Conocimiento
-- ⚙️ TypeScript, Vue JS, Angular JS
-- 👨‍💻 Node JS
+- ⚙️ Vue JS, Angular JS
+- 👨‍💻 Node JS, Nest JS
 
 ## Proyectos git
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanNoh&repo=webpack-react&theme=react)](https://github.com/JuanNoh/webpack-react)
